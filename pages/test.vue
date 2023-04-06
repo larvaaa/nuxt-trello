@@ -1,6 +1,7 @@
 <template>
   <div>
     <Parent/>
+    <Parent2/>
   </div>
 </template>
 <script>
